@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!--appbar与webview弄出来的 toobar停靠在上面的效果-->
     <com.computer.mazhihuapp.view.RevealBackgroundView
         android:id="@+id/revealBackgroudView"
         android:layout_width="match_parent"
